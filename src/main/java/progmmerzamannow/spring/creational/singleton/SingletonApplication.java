@@ -1,4 +1,4 @@
-package programmerzamannow.spring.creational.singleton;
+package progmmerzamannow.spring.creational.singleton;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;

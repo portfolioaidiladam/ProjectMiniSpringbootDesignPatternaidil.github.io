@@ -1,4 +1,4 @@
-package programmerzamannow.spring.creational.singleton;
+package progmmerzamannow.spring.creational.singleton;
 
 public class Counter {
 
